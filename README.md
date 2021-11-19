@@ -1,7 +1,6 @@
 # NLP-Recipes
-NLP Recipes
 
-Collecting Data
+## Collecting Data
     > csv file
     > html file
     > word/pdf doc
@@ -9,7 +8,7 @@ Collecting Data
     > text
     > excel
 
-Exploring and Propcessing Test Data
+## Exploring and Propcessing Test Data
     > Lowercasing
     > Punctuation Removal
     > Stop words Removal
