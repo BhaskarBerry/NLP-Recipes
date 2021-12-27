@@ -8,7 +8,7 @@
     > text
     > excel
 
-## Exploring and Propcessing Test Data
+## Exploring and Pre-processing Test Data
     > Lowercasing
     > Punctuation Removal
     > Stop words Removal
