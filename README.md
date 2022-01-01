@@ -66,4 +66,6 @@
     > Machine learning/Deep learning
     > Insights and deployment
     
+# Libraries 
+    > pip insatll fuzzy
     
