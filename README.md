@@ -68,4 +68,5 @@
     
 # Libraries 
     > pip insatll fuzzy
+    > pip install spacy
     

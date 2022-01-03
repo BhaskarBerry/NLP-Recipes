@@ -28,3 +28,7 @@ Phonetic matching - It is very useful for searching
 large text corpora, correcting spelling errors, and matching relevant names.
 Soundex and Metaphone are two main phonetic algorithms used for this purpose.
 """
+# pip install fuzzy
+import fuzzy
+soundex = fuzzy.Soundex(4)
+soundex('natural')
