@@ -4,7 +4,11 @@ Text classification – The aim of text classification is to automatically
 classify the text documents based on pretrained categories.
 
 Spam - ham classification using machine learning.
-
+Applications:
+    • Sentiment Analysis
+    • Document classification
+    • Resume shortlisting
+    • Document summarization
 """
 import numpy as np
 import pandas as pd

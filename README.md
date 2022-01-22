@@ -43,6 +43,14 @@
     > Text to Speech
     > Language Detection and Translation        
 
+## Application
+    > consumer Complaint Classification
+    > Customer reviews sentiment prediction
+    > Data stitching using record linkage
+    > Tet summarization for subject notes
+    > Documnet clustering
+    > Search enginee and learning to rank
+    
 ## Glossary
 ### word2vec: 
     > word2vec is the deep learning Google framework to train word embeddings. 
@@ -69,4 +77,8 @@
 # Libraries 
     > pip insatll fuzzy
     > pip install spacy
+    > pip install pywsd
+    > pip install SpeechRecognition
+    > pip install PyAudio
+    > pip install gTTS
     
