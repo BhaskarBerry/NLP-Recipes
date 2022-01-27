@@ -125,14 +125,11 @@ print(" - Predicted as: '{}'".format(id_to_category[predictions[0]]))
 
 """
 To increase the accuracy, we can do the following things:
-• Reiterate the process with different algorithms like
-Random Forest, SVM, GBM, Neural Networks, Naive
-Bayes.
-• Deep learning techniques like RNN and LSTM (will be
-discussed in next chapter) can also be used
-• In each of these algorithms, there are so many
-parameters to be tuned to get better results. It can be
-easily done through Grid search, which will basically
+• Reiterate the process with different algorithms like Random Forest, SVM, GBM, 
+Neural Networks, Naive Bayes.
+• Deep learning techniques like RNN and LSTM can also be used
+• In each of these algorithms, there are so many parameters to be tuned to get 
+better results. It can be easily done through Grid search, which will basically
 try out all possible combinations and give the best out.
 
 """

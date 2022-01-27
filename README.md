@@ -74,11 +74,26 @@
     > Machine learning/Deep learning
     > Insights and deployment
     
-# Libraries 
+# Libraries used in nlp
     > pip insatll fuzzy
     > pip install spacy
     > pip install pywsd
     > pip install SpeechRecognition
     > pip install PyAudio
     > pip install gTTS
+    > pip install clean-text
+
+# NLP Models
+## Follow the below steps to develop the models using the NLP
+    > Import the Dataset
+    > Cleaning the data set
+        - Remove the Numbers from the text 
+        - convert all the character to lower case
+        - split the words
+        - stemming - to remove the alias of the names
+        - remove the stop words using corpus
+        - Join the split words in to the string
+    > Applying the model
+
+ 
     
