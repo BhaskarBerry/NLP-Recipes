@@ -82,6 +82,7 @@
     > pip install PyAudio
     > pip install gTTS
     > pip install clean-text
+    > pip install vaderSentiment
 
 # NLP Models
 ## Follow the below steps to develop the models using the NLP
