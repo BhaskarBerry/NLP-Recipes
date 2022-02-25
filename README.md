@@ -83,6 +83,7 @@
     > pip install gTTS
     > pip install clean-text
     > pip install vaderSentiment
+    > pip install recordlinkage
 
 # NLP Models
 ## Follow the below steps to develop the models using the NLP
