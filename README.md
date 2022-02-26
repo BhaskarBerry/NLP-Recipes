@@ -84,6 +84,8 @@
     > pip install clean-text
     > pip install vaderSentiment
     > pip install recordlinkage
+    > pip install gensim==3.8.3 -- for summarization to work
+    > pip install sumy --> feature based text summarization
 
 # NLP Models
 ## Follow the below steps to develop the models using the NLP
